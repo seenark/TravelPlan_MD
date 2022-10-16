@@ -1,5 +1,5 @@
 พระธาตุดอยสุเทพ
-!(Alt map)[Pasted image 20221016113653.png]
+!(Alt map)["./Pasted image 20221016113653.png"]
 
 
 ![[Pasted image 20221016114305.png]]
